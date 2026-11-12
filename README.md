@@ -5,7 +5,7 @@
 
 ### Project Title or Name of the Application	: [ insert title ]
 ### Section			   	      : Strontium
-### Group Members			    : Cano, Shaun; Dela Cruz, Nathan; Roberto, Rupert
+### Group Members			    : Cano, Shaun Angelo; Dela Cruz, John Nathan; Roberto, Rupert Venjamin
 ### Date (Proposal Date)  : Nov 5, 2026
 
 ### Project Description:
