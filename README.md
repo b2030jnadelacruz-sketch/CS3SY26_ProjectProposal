@@ -10,7 +10,7 @@
 
 ### Project Description:
 
-- A brief summary of the project description and the need for it.
+- Many students in Pisay struggle learning statistics, specifically probability. The program would help visualize and explain several concepts in statistics and the explanation behind it. It would help students to learn probability easier.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
