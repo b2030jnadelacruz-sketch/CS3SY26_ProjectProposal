@@ -3,7 +3,7 @@
 
 ## Project Proposal Template:
 
-### Project Title or Name of the Application	: Skatistics
+### Project Title or Name of the Application	: Le Scatistics
 ### Section			   	      : Strontium
 ### Group Members			    : Cano, Shaun Angelo; Dela Cruz, John Nathan; Roberto, Rupert Venjamin
 ### Date (Proposal Date)  : Nov 5, 2026
