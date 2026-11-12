@@ -2,12 +2,12 @@
 
 
 ## Project Proposal Template:
-cvbbbc
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
+
+### Project Title or Name of the Application	: [ insert title ]
+### Section			   	      : Strontium
+### Group Members			    : Cano, Shaun; Dela Cruz, Nathan; Roberto, Rupert
 ### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
+
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
