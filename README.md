@@ -13,8 +13,46 @@
 - Many students in Pisay struggle learning statistics, specifically probability. The program would help visualize and explain several concepts in statistics and the explanation behind it. It would help students to learn probability easier.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
+  Input(Parent_class)
+  **attribute:**
+  self.total_items
+- Permutation(class)
+  **attribute:**
+  super().__init__(Input)
+  self.total_items
+  **method:**
+  def Permutate: formula for permutation
+- Combination(class)
+  **attribute:**
+  super().__init__(Input)
+  self.total_items
+  self.number_of_chosen_items
+  **method:**
+  def Combinations: formula for combination
+- Multiplying principle(class)
+  **attribute:**
+  self.amt_subclasses = []
+  **method:**
+  def(subclass): 
+    attribute(subclass):
+    number_of_outcomes
+  def multiply:
+    for i in self.amt_subclasses:
+    multiply i.number_of_outcomes:
+  
+- Addition principle(class)
+  **attributes:**
+  self.amt_subclasses = []
+  **method:**
+  def(subclass):
+    attriute(subclass):
+    number_of_outcomes
+  def add:
+    for i in self.amt_subclasses:
+    sum i.number_of_outcomes
 
-- Include the description as well of your target demographics as the user of your application. 
+  
+- Target demographic: Grade 9 students struggling with learning probabilities.
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
@@ -26,8 +64,10 @@
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
-- Objective 2:
-- Objective n:
+- Objective 1: Define scenarios where probability is needed
+- Objective 2: Creating classes where they would apply the different concepts in probability.
+- Objective 3: Combine different the classes needed to simulate the scenarios we decided on.
+- Objective 4: Simulate different types of situations in which the code would be tested to see if it would work in those areas.
+- Objective 5: Debugging the code to ensure there will be no holes in the logic and that the output would be correct.
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
