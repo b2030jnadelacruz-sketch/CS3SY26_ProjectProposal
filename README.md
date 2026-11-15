@@ -26,6 +26,8 @@
 - methods:
     -- def Permutate: formula for permutation
     -- def explain: explain the process behind the solution
+    -- def circular_permutation: for circular problems
+    -- def repeated_permutation: for problems where permutation happens more than once
 ---------------------------------------------
 - Class combination
 - attributes: -- self.total_items
@@ -33,9 +35,11 @@
 - methods:
     -- def Combinations: formula for combination
     -- def explain: explain the process behind the solution
+    -- def repeated_combination: for problems where combination happens more than once
 ---------------------------------------------
 - Class probability:
 - Attributes: -- self.events_needed = list
+              -- self.sample_space = total outcomes of each event multiplied to eachother
 - Methods:
   -- def create_event(): create a new event with both an event name and the probability of it happening
   -- def multiplying_principle(): multiply the probability of each event
