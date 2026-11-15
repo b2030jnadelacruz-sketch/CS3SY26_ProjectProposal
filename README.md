@@ -48,8 +48,9 @@
   -- def addition_principle(): add the probability of each event
 
 ---------------------------------------------
-- Target demographic: Grade 9 students struggling with learning probabilities.
+### Target demographic: Grade 9 students struggling with learning probabilities.
 
+### Class Diagram
 <img width="1146" height="347" alt="image" src="https://github.com/user-attachments/assets/25a2603e-8f5f-40f3-aa33-f233d968b3f9" />
 
 
