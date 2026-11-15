@@ -14,6 +14,8 @@
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 ---------------------------------------------
+import math
+---------------------------------------------
 - Class factorial:
 - attributes: -- self.total_items
               -- self.item_name
@@ -23,18 +25,20 @@
              -- self.chosen_items
 - methods:
     -- def Permutate: formula for permutation
+    -- def explain: explain the process behind the solution
 ---------------------------------------------
 - Class combination
 - attributes: -- self.total_items
               -- self.chosen_items
 - methods:
     -- def Combinations: formula for combination
+    -- def explain: explain the process behind the solution
 ---------------------------------------------
 - Class probability:
 - Attributes: -- self.events_needed
 - Methods:
-- def multiplying_principle(): multiply the probability of each event
-- def addition_principle(): add the probability of each event
+  -- def multiplying_principle(): multiply the probability of each event
+  -- def addition_principle(): add the probability of each event
 
 ---------------------------------------------
 - Target demographic: Grade 9 students struggling with learning probabilities.
