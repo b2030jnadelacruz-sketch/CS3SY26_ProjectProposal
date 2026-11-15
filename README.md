@@ -50,7 +50,7 @@
 ---------------------------------------------
 - Target demographic: Grade 9 students struggling with learning probabilities.
 
-![Sample Diagram](https://github.com/user-attachments/assets/52599d50-a3d7-4d05-8066-a4dbdda61f79.png>
+![Sample Diagram](https://github.com/user-attachments/assets/52599d50-a3d7-4d05-8066-a4dbdda61f79>
 )
 
 ### Goals:
