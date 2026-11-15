@@ -31,23 +31,13 @@
 - methods:
     -- def Combinations: formula for combination
 ---------------------------------------------
-- Class multiplying_principle:
-- attributes:
-    -- self.amt_subclasses = []
-- methods:
-    -- def independent_event(number_of_outcomes):
-      number_of_outcomes
-    -- def multiply: multiply the probability for event
-- #for i in self.amt_subclasses: multiply i.number_of_outcomes:
----------------------------------------------
-- Class addition_principle
-- attributess:
-    -- self.amt_subclasses = []
-- methods:
-    -- def independent_event(number_of_outcomes):
-      number_of_outcomes
-    -- def add: add the probability for each event
-- #for i in self.amt_subclasses: sum i.number_of_outcomes
+- Class probability:
+- Attributes:
+- self.events_needed
+- Methods:
+- def multiplying_principle(): multiply the probability of each event
+- def addition_principle(): add the probability of each event
+
 ---------------------------------------------
 - Target demographic: Grade 9 students struggling with learning probabilities.
 
