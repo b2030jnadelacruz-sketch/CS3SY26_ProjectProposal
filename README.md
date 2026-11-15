@@ -37,16 +37,16 @@
     -- def independent_event(number_of_outcomes):
       number_of_outcomes
     -- def multiply: multiply the probability for event
-#for i in self.amt_subclasses: multiply i.number_of_outcomes:
+- #for i in self.amt_subclasses: multiply i.number_of_outcomes:
 ---------------------------------------------
 - Addition principle(class)
 - attributes:
-    self.amt_subclasses = []
+    -- self.amt_subclasses = []
 - method:
-    def independent_event(number_of_outcomes):
+    -- def independent_event(number_of_outcomes):
       number_of_outcomes
-    def add: add the probability for each event
-#for i in self.amt_subclasses: sum i.number_of_outcomes
+    -- def add: add the probability for each event
+- #for i in self.amt_subclasses: sum i.number_of_outcomes
 ---------------------------------------------
 - Target demographic: Grade 9 students struggling with learning probabilities.
 
