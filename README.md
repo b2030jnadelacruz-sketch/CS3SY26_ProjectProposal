@@ -14,20 +14,19 @@
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 ---------------------------------------------
-- Class question:
+- Class factorial:
 - attributes: -- self.total_items
               -- self.item_name
 ---------------------------------------------
 - Class permutation
-- attributes: -- super().init(Input)
-             -- self.total_items
+- attributes:-- self.total_items
+             -- self.chosen_items
 - methods:
     -- def Permutate: formula for permutation
 ---------------------------------------------
 - Class combination
-- attributes: -- super().init(Input)
-             -- self.total_items
-             -- self.number_of_chosen_items
+- attributes: -- self.total_items
+              -- self.chosen_items
 - methods:
     -- def Combinations: formula for combination
 ---------------------------------------------
