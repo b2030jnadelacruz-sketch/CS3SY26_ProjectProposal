@@ -14,24 +14,24 @@
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 ---------------------------------------------
-- Input(parent class)
+- Class question:
 - attributes: -- self.total_items
               -- self.item_name
 ---------------------------------------------
-- Permutation(class)
+- Class permutation
 - attributes: -- super().init(Input)
              -- self.total_items
 - methods:
     -- def Permutate: formula for permutation
 ---------------------------------------------
-- Combination(class)
+- Class combination
 - attributes: -- super().init(Input)
              -- self.total_items
              -- self.number_of_chosen_items
 - methods:
     -- def Combinations: formula for combination
 ---------------------------------------------
-- Multiplying principle(class)
+- Class multiplying_principle:
 - attributes:
     -- self.amt_subclasses = []
 - methods:
@@ -40,7 +40,7 @@
     -- def multiply: multiply the probability for event
 - #for i in self.amt_subclasses: multiply i.number_of_outcomes:
 ---------------------------------------------
-- Addition principle(class)
+- Class addition_principle
 - attributess:
     -- self.amt_subclasses = []
 - methods:
