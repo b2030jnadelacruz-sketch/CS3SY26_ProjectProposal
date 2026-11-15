@@ -13,44 +13,16 @@
 - Many students in Pisay struggle learning statistics, specifically probability. The program would help visualize and explain several concepts in statistics and the explanation behind it. It would help students to learn probability easier.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
-  Input(Parent_class)
-  **attribute:**
-  self.total_items
-- Permutation(class)
-  **attribute:**
-  super().__init__(Input)
-  self.total_items
-  **method:**
-  def Permutate: formula for permutation
-- Combination(class)
-  **attribute:**
-  super().__init__(Input)
-  self.total_items
-  self.number_of_chosen_items
-  **method:**
-  def Combinations: formula for combination
-- Multiplying principle(class)
-  **attribute:**
-  self.amt_subclasses = []
-  **method:**
-  def(subclass): 
-    attribute(subclass):
-    number_of_outcomes
-  def multiply:
-    for i in self.amt_subclasses:
-    multiply i.number_of_outcomes:
-  
-- Addition principle(class)
-  **attributes:**
-  self.amt_subclasses = []
-  **method:**
-  def(subclass):
-    attriute(subclass):
-    number_of_outcomes
-  def add:
-    for i in self.amt_subclasses:
-    sum i.number_of_outcomes
 
+- Input(parent class) attribute: self.total_items
+  
+- Permutation(class) attribute: super().init(Input) self.total_items method: def Permutate: formula for permutation
+
+- Combination(class) attribute: super().init(Input) self.total_items self.number_of_chosen_items method: def Combinations: formula for combination
+
+- Multiplying principle(class) attribute: self.amt_subclasses = [] method: def(subclass): attribute(subclass): number_of_outcomes def multiply: for i in self.amt_subclasses: multiply i.number_of_outcomes:
+
+- Addition principle(class) attributes: self.amt_subclasses = [] method: def(subclass): attriute(subclass): number_of_outcomes def add: for i in self.amt_subclasses: sum i.number_of_outcomes
   
 - Target demographic: Grade 9 students struggling with learning probabilities.
 
