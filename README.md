@@ -19,6 +19,8 @@
 - Class factorial:
 - attributes: -- self.total_items
               -- self.item_name
+- methods:
+    -- def expand_factorial: expands the factorial given the number of items
 ---------------------------------------------
 - Class permutation
 - attributes:-- self.total_items
