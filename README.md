@@ -16,6 +16,7 @@
 ---------------------------------------------
 - Input(parent class)
 - attributes: -- self.total_items
+              -- self.item_name
 ---------------------------------------------
 - Permutation(class)
 - attributes: -- super().init(Input)
