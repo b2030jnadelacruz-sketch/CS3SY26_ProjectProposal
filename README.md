@@ -31,8 +31,7 @@
     -- def Combinations: formula for combination
 ---------------------------------------------
 - Class probability:
-- Attributes:
-- self.events_needed
+- Attributes: -- self.events_needed
 - Methods:
 - def multiplying_principle(): multiply the probability of each event
 - def addition_principle(): add the probability of each event
