@@ -35,8 +35,9 @@
     -- def explain: explain the process behind the solution
 ---------------------------------------------
 - Class probability:
-- Attributes: -- self.events_needed
+- Attributes: -- self.events_needed = list
 - Methods:
+  -- def create_event(): create a new event with both an event name and the probability of it happening
   -- def multiplying_principle(): multiply the probability of each event
   -- def addition_principle(): add the probability of each event
 
