@@ -14,7 +14,7 @@
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 ---------------------------------------------
-import math
+- import math
 ---------------------------------------------
 - Class factorial:
 - attributes: -- self.total_items
