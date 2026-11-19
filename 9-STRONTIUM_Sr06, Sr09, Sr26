@@ -10,7 +10,7 @@
 
 ### Project Description:
 
-- Many students in Pisay struggle learning statistics, specifically probability. The program would help visualize and explain several concepts in statistics and the explanation behind it. It would help students to learn probability easier.
+- Many students in Pisay struggle learning statistics, specifically probability. The program would help visualize and explain several concepts in statistics and probability, as well as the explanation behind it. It would help students to learn probability easier and help them understand the reasoning behind those solutions.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 ---------------------------------------------
@@ -55,13 +55,12 @@
 
 
 ### Goals:
-
-Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
-
 - Objective 1: Define scenarios where probability is needed
 - Objective 2: Creating classes where they would apply the different concepts in probability.
 - Objective 3: Combine different the classes needed to simulate the scenarios we decided on.
 - Objective 4: Simulate different types of situations in which the code would be tested to see if it would work in those areas.
 - Objective 5: Debugging the code to ensure there will be no holes in the logic and that the output would be correct.
+
+Hi po Sir Roy thank you po for looking at our proposal, we're happy to propose. Sir we based our proposal based of our own personal struggles in school work. The decided to choose this to help others with their school work.
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
