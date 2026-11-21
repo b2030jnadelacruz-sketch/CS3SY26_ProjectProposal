@@ -9,10 +9,10 @@
 ### Date (Proposal Date)  : Nov 5, 2026
 
 ### Project Description:
+- Many students in Pisay struggle learning statistics, specifically probability. The program would help visualize and explain several concepts in statistics and probability, as well as the explanation behind it. It would help students to learn probability easier and help them understand the reasoning behind those solutions. The program would also aim to help students check if their work is correct or not and would assist in the learning of difficulte topics such as the ones in statistics.
 
-- Many students in Pisay struggle learning statistics, specifically probability. The program would help visualize and explain several concepts in statistics and probability, as well as the explanation behind it. It would help students to learn probability easier and help them understand the reasoning behind those solutions.
 
-- Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
+### System Components:
 ---------------------------------------------
 - import math
 ---------------------------------------------
